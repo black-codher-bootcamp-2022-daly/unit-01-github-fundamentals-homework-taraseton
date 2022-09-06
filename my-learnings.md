@@ -1,6 +1,6 @@
-<h1>Unit 1 Homework</h1>
+#Unit 1 Homework
 
-<h2>Here is what I've learned so far on the Black Codher Bootcamp</h2>
+##Here is what I've learned so far on the Black Codher Bootcamp</h2>
 
 <h3><strong>Introduction to Software Development</h3></strong>
 <ul>
